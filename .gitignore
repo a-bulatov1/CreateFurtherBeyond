@@ -1,7 +1,6 @@
 .mixin.out/**
 crash-reports/**
 logs/**
-mods/**
 natives/**
 paintings/**
 palettes/**
@@ -15,6 +14,7 @@ themes/**
 config.json
 hotbar.nbt
 knownkeys.txt
+options.txt
 optionsof.txt
 optionsshaders.txt
 patchouli_data.json
@@ -23,3 +23,8 @@ servers.dat
 servers.dat_old
 usercache.json
 usernamecache.json
+moonlight-global-datapacks/**
+xaero/**
+ponders_watched.json
+.qmenu_opened.marker
+
