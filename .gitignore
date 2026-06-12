@@ -1,0 +1,16 @@
+# Minecraft
+local/
+saves/
+mods/
+logs/
+crash-reports/
+backups/
+resourcepacks/
+!resourcepacks/CABIN/
+server-resource-packs/
+screenshots/
+downloads/
+modernfix/
+fancymenu_data/
+ESM/
+panoramas/
