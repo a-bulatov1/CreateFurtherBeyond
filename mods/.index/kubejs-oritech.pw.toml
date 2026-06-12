@@ -1,0 +1,25 @@
+filename = 'kubejs_oritech-neoforge-1.21.1-0.4.4.jar'
+name = 'KubeJS Oritech'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'KubeJS-Oritech-NeoForge-1.21.1-0.4.4'
+
+[download]
+hash = '1c3ebb5409e11be575dc018ac9799bdf6ac54535'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8056459
+project-id = 1153301
+
+[[x-prismlauncher-dependencies]]
+addonId = '1030830'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238086'
+type = 'REQUIRED'

@@ -1,0 +1,11 @@
+{
+  "type": "neoforge:remove_features",
+  "biomes": "#c:is_overworld",
+  "features": [
+    "stellaris:steel_ore",
+    "stellaris:steel_ore_deepslate"
+  ],
+  "steps": [
+    "underground_ores"
+  ]
+}
