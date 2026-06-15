@@ -1,0 +1,18 @@
+{
+    "schema_version": "2",
+    "failed_reloads_per_session": 5,
+
+    "default_packs": [
+	"vanilla",
+	"mod_resources",
+    "file/Further Beyond"
+    ],
+
+    "pack_overrides": {
+        "file/Further Beyond": {
+          "required": true
+        }
+    }
+}
+
+

@@ -6,7 +6,6 @@ paintings/**
 palettes/**
 local/**
 patchouli_books/**
-resourcepacks/**
 saves/**
 schematics/**
 screenshots/**
@@ -29,4 +28,6 @@ ponders_watched.json
 .qmenu_opened.marker
 sable/**
 downloads/**
+command_history.txt
+XaeroWaypoints_BACKUP240807/**
 
