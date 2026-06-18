@@ -1,0 +1,8 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"createmetallurgy:coke"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:coke_chunk"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:incomplete_coke_chunk"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:alchemical_laser"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:number_0"},"type":"fluid_stack","bookmarkType":"INGREDIENT"}
+]
