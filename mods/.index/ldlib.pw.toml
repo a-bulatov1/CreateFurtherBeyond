@@ -1,18 +1,18 @@
-filename = 'ldlib2-neoforge-1.21.1-2.2.18-all.jar'
-name = 'LDLib'
+filename = 'ldlib2-neoforge-1.21.1-2.2.22-all.jar'
+name = 'LowDragLib2'
 side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'LDLib2-1.21.1-2.2.18-neoforge'
+x-prismlauncher-version-number = 'LDLib2-1.21.1-2.2.22-neoforge'
 
 [download]
-hash = '4e47cbb852409ab1a3e63f8102f77d0b67b031cd'
+hash = 'd14fd3cdefd636031c8aa029e14bc1c84d172b7e'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 8221762
+file-id = 8270233
 project-id = 626676

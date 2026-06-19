@@ -24,7 +24,8 @@ const removedItems = [
 ];
 
 const removedRecipes = [
-    {id: 'oritech:foundry/alloy/biosteel'}
+    {id: 'oritech:foundry/alloy/biosteel'},
+    {id: "createmetallurgy:bulk_melting/steel/raw_block"}
 ];
 
 RecipeViewerEvents.removeEntriesCompletely('item', event => {
@@ -39,4 +40,8 @@ ServerEvents.recipes(event => {
     //}
     // one off recipes that arent deleted normally
     event.remove(removedRecipes)
+})
+
+ServerEvents.tags("item", event => {
+    event.removeAllTagsFrom(removedItems)
 })

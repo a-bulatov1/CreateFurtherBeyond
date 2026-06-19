@@ -1,8 +1,18 @@
 [
   {"version":1},
+  {"ingredient":{"id":"kubejs:certus_crystal_seed"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:computation_matrix"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:gold_coin"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:six"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createmetallurgy:ladle_filter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createmetallurgy:steel_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createmetallurgy:molten_steel"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"stellaris:raw_steel_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createmetallurgy:steel_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"oritech:steel_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"oritech:biosteel_dust"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"oritech:biosteel_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"createmetallurgy:coke"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"kubejs:coke_chunk"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"kubejs:incomplete_coke_chunk"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"kubejs:alchemical_laser"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"kubejs:number_0"},"type":"fluid_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"kubejs:incomplete_coke_chunk"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

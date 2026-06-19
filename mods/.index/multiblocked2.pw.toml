@@ -1,24 +1,20 @@
-filename = 'Multiblocked2-1.21-1.21.1-21.0.1.jar'
+filename = 'Multiblocked2-1.21-1.21.1-21.0.2.jar'
 name = 'Multiblocked2'
 side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = 'Multiblocked2-1.21.1-21.0.1-neoforge'
+x-prismlauncher-version-number = 'Multiblocked2-1.21.1-21.0.2-neoforge'
 
 [download]
-hash = '335ad1dccabab696523a885b0d2f6175c65dbc67'
+hash = 'ed89c489d298344d659bfa8a8b9e97acfc998f4c'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 8189612
+file-id = 8246693
 project-id = 1104057
-
-[[x-prismlauncher-dependencies]]
-addonId = '388172'
-type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
 addonId = '871522'
@@ -26,4 +22,8 @@ type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
 addonId = '626676'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
 type = 'OPTIONAL'
