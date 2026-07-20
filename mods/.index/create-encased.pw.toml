@@ -1,32 +1,32 @@
-filename = 'Create Encased-1.21.1-1.8.1-ht1.jar'
+filename = 'Create Encased-1.21.1-1.9.0-ht1.jar'
 name = 'Create Encased'
-side = 'server'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'Create Encased-1.21.1-1.8.1-ht1.jar'
+x-prismlauncher-version-number = 'Create Encased 1.9.0-ht1 for mc1.21.1'
 
 [download]
-hash = '5ca3d7674676dda5dd472b0433505a54d5e920d0'
+hash = 'ab835d7638f545ad5bf866da936656ba8017a307'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 8132852
+file-id = 8357227
 project-id = 829380
 
 [[x-prismlauncher-dependencies]]
-addonId = '238222'
-type = 'OPTIONAL'
+addonId = '328085'
+type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
 addonId = '659674'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = '328085'
-type = 'REQUIRED'
+addonId = '238222'
+type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
 addonId = '238086'

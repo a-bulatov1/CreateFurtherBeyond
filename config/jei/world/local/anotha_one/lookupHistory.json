@@ -1,5 +1,9 @@
 [
   {"version":1},
+  {"ingredient":{"id":"architects_palette:algal_brick"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"architects_palette:algal_blend"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createcasing:chorium_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:strainer_filter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"kubejs:certus_crystal_seed"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"kubejs:computation_matrix"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"kubejs:gold_coin"},"type":"item_stack","bookmarkType":"INGREDIENT"},

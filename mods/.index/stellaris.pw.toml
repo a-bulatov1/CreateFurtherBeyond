@@ -1,29 +1,29 @@
-filename = 'stellaris-1.21-neoforge-1.4.23.jar'
+filename = 'stellaris-1.21-neoforge-1.4.25.jar'
 name = 'Stellaris'
 side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '[Neoforge 1.21] Stellaris 1.4.23'
+x-prismlauncher-version-number = '[Neoforge 1.21] Stellaris 1.4.25'
 
 [download]
-hash = '43aeb4a82628abf37b6dbab96594af5eaafb3fb4'
+hash = 'd1d5801d054b7ba0b22ce2b35d8d4ec5a5e43401'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 8154670
+file-id = 8402909
 project-id = 1036270
 
 [[x-prismlauncher-dependencies]]
-addonId = '1096636'
-type = 'EMBEDDED'
+addonId = '419699'
+type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
 addonId = '1165185'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
-addonId = '419699'
-type = 'REQUIRED'
+addonId = '1096636'
+type = 'EMBEDDED'

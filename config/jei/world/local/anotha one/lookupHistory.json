@@ -1,0 +1,20 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"stellaris:steel_pickaxe"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createcasing:shadow_steel_gearshift"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createcasing:shadow_steel_gearbox"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"stellaris:rocket_fin"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createmetallurgy:steel_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createmetallurgy:molten_steel"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createmetallurgy:steel_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:strainer_filter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:growing_tiny_certus_crystal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:tiny_certus_crystal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:growing_small_certus_crystal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:dye_entangled_singularity"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:incomplete_inductive_mechanism"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:inductive_mechanism"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:incomplete_logistic_mechanism"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:sky_slimy_fern_leaf"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:strainer_filter","components":{"minecraft:damage":173}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

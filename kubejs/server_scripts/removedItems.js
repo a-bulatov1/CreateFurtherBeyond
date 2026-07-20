@@ -20,6 +20,9 @@ const removedItems = [
     'stellaris:uranium_ingot',
     'stellaris:uranium_block',
     'stellaris:mercury_uranium_ore'
+
+    // big cannons
+    //'createbigcannons:steel_ingot'
     
 ];
 
