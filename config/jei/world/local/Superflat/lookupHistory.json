@@ -1,0 +1,8 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"create:nozzle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:diorite"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:granite"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:red_sand"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:strainer_filter"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
